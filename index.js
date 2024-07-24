@@ -1,3 +1,5 @@
-alert('cream cheese')
-console.log('yay')
+const name = prompt("What's your name?")
+alert('ice cream')
+console.log('oy')
+console.log('hey')
 console.log('no way')
