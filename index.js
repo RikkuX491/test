@@ -1,3 +1,3 @@
-alert('ice cream')
-console.log('no')
-console.log('hey')
+alert('cream cheese')
+console.log('yay')
+console.log('no way')
