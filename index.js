@@ -1,3 +1,4 @@
+const name = prompt("What's your name?")
 alert('ice cream')
-console.log('no')
 console.log('hey')
+console.log(name)
